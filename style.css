@@ -68,7 +68,7 @@ body{
     section#curt{
         width: 100vw;
         height: 70vh;
-        background-image: url(../image/duck.jpg);
+        background-image: url(./assets/image/duck.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         display: flex;
